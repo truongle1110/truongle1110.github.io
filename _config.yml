@@ -21,7 +21,7 @@ repository               : "truongle1110/truongle1110.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "truong.png"
+  avatar           : "truongle.png"
   name             : "Truong Le"
   pronouns         : # example: "she/her"  
   bio              : "PhD student"
