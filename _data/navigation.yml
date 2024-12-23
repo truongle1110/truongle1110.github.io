@@ -18,10 +18,10 @@ main:
   #   url: /portfolio/
 
   - title: "CV"
-    url: /cv/
+    url: /files/resume.pdf
         
   - title: "Blog"
-    url: /year-archive/
+    # url: /year-archive/
     
 
     
