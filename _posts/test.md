@@ -5,3 +5,6 @@ permalink: /posts/2012/08//test/
 tags:
   - cool posts
 ---
+---
+
+This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
