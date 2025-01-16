@@ -7,3 +7,4 @@ related: false
 ---
 
 Today is January 16, 2025, the same day I wrote this first blog. Actually, I created this webpage more than 2 weeks ago, when it was a holiday in almost all Western countries (I guessed). Honestly, in the beginning, I made this page just to consider it like an online portfolio, which (I think) will help me to get recognition from some recruiters or professors in the future when I finish the PhD.
+Blogs are not something very unfamiliar to me, I do it quite often.
