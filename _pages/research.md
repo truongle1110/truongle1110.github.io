@@ -11,31 +11,4 @@ author_profile: true
 
 ## 2024
 
-* **Huu-Truong Le** , Chiara Franciosi, Phuc Do, and Alexandre Voisin. (2024). “Contribution of Maintenance to Reconfigurable Manufacturing Systems: State of the Art and Challenges”. 6th IFAC Workshop on Advanced Maintenance Engineering, Services and Technology AMEST, 58(8), 121-126. [[paper](https://www.sciencedirect.com/science/article/pii/S2405896324007778)]
-
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-<!-- {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %} -->
-
-
-
+* **Huu-Truong Le** , Chiara Franciosi, Phuc Do, and Alexandre Voisin. “Contribution of Maintenance to Reconfigurable Manufacturing Systems: State of the Art and Challenges”. 6th IFAC Workshop on Advanced Maintenance Engineering, Services and Technology AMEST, 58(8), 121-126. [[paper](https://www.sciencedirect.com/science/article/pii/S2405896324007778)]
