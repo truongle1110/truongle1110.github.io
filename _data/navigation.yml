@@ -21,7 +21,7 @@ main:
     url: /files/resume.pdf
         
   - title: "Blog"
-    # url: /year-archive/
+    url: /blog/
     
 
     
