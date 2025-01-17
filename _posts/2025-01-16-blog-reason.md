@@ -21,14 +21,13 @@ I want to write both in English and Vietnamese, I personally like the playful, c
 Thank you for anyone visiting my blog, you may come across some of my one-sided, impolite or ironic point of view. If that happens, you can send me any anonymous messages to say whatever you want through this [link](https://ngl.link/drenykstein2).
 
 <div style="text-align: center;">
-    _Chưa biết về tôi xin đừng đánh giá_
+    Chưa biết về tôi xin đừng đánh giá
 </div>
 <div style="text-align: center;">
-    _Nếu biết tôi rồi, xin đừng đánh tôi._
+    Nếu biết tôi rồi, xin đừng đánh tôi.
 </div>
 
-![](/images/blog-reason.jpg)
 <div style="text-align: center;">
-    <img src="/images/blog-reason.jpg" alt="Centered Resized Image" width="300" />
+    <img src="/images/blog-reason.jpg" alt="Centered Resized Image" width="500" />
 </div>
 
