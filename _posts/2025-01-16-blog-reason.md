@@ -18,7 +18,8 @@ For these reasons, I’m starting this first blog post and serious about writing
 
 I want to write both in English and Vietnamese, I personally like the playful, childish (trẻ trâu), sometimes a bit vulgar content from some Vietnamese meme facebook pages. I don't mind if people see me as immature for sharing this. After all, not every PhD student has to be serious all the time.
 
-Thank you to anyone visiting my blog, you may come across some of my unstructured, one-sided, impolite or ironic points of view. If that happens, you can send me any anonymous messages to say whatever you want through this [link](https://ngl.link/drenykstein2). This app only allows me to receive messages (I prefer ASKfm but it seems to be removed), so I’m unable to respond to you.
+Thank you to anyone visiting my blog, you may come across some of my unstructured, one-sided, impolite or ironic points of view. If that happens, you can send me any anonymous messages to say whatever you want through this [link](https://ngl.link/drenykstein2).
+<!-- This app only allows me to receive messages (I prefer ASKfm but it seems to be removed), so I’m unable to respond to you. -->
 
 <div style="text-align: center;">
     <em>Chưa biết về tôi xin đừng đánh giá</em>
