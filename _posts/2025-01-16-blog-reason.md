@@ -25,5 +25,5 @@ Thank you for anyone visiting my blog, you may come across some of my one-sided,
     Nếu biết tôi rồi, xin đừng đánh tôi.*
 </div>
 
-![](/images/blog-reason.jpeg)
+![](/images/blog-reason.jpg)
 
