@@ -16,9 +16,9 @@ Anyway, as a PhD student, writing is a must. In addtion, I want to develop mysel
 
 For these reasons, I’m starting this first blog post and serious about writing regularly (maybe once a week). After submitting the draft for a journal article to my profs,  I finally have a bit of time to blog and prepare for my trip back to Vietnam for Tet. So maybe during this time, I will write something more than usual.
 
-I want to write both in English and Vietnamese, I personally like the playful, childish (trẻ trâu), sometimes a bit vulgar contents from some Vietnamese meme facebook pages. I don't mind if people see me as immature for sharing this. After all, not every PhD student has to be serious all the time.
+I want to write both in English and Vietnamese, I personally like the playful, childish (trẻ trâu), sometimes a bit vulgar content from some Vietnamese meme facebook pages. I don't mind if people see me as immature for sharing this. After all, not every PhD student has to be serious all the time.
 
-Thank you for anyone visiting my blog, you may come across some of my one-sided, impolite or ironic point of view. If that happens, you can send me any anonymous messages to say whatever you want through this [link](https://ngl.link/drenykstein2).
+Thank you to anyone visiting my blog, you may come across some of my one-sided, impolite or ironic points of view. If that happens, you can send me any anonymous messages to say whatever you want through this [link](https://ngl.link/drenykstein2).
 
 <div style="text-align: center;">
     Chưa biết về tôi xin đừng đánh giá
