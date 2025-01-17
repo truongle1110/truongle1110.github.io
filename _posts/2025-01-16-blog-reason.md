@@ -1,5 +1,5 @@
 ---
-title: 'Why this blog page exists?'
+title: 'Why does this blog page exist?'
 date: 2025-01-16
 permalink: /posts/2024/01/blog-reason/
 author_profile: false
