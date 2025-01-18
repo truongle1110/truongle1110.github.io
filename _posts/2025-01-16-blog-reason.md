@@ -14,6 +14,10 @@ Talking about me, I'm terrible at writing (except for scientific stuff, I guess)
 
 Anyway, as a PhD student, writing is a must. In addtion, I want to develop myself, acquire valuable skills during this time to get a good job after graduation and make my youth worthy by doing something meaningful. Writing my personal thought seems like a good way to start.
 
+<div style="text-align: center;">
+    <img src="/images/start-writing.jpg" alt="Centered Resized Image" width="500" />
+</div>
+
 For these reasons, I’m starting this first blog post and serious about writing regularly (maybe once a week). After submitting the draft for a journal article to my profs,  I finally have a bit of time to blog and prepare for my trip back to Vietnam for Tet. So maybe during this time, I will write something more than usual.
 
 I want to write both in English and Vietnamese, I personally like the playful, childish (trẻ trâu), sometimes a bit vulgar content from some Vietnamese meme facebook pages. I don't mind if people see me as immature for sharing this. After all, not every PhD student has to be serious all the time.
