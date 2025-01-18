@@ -33,6 +33,6 @@ Thank you to anyone visiting my blog, you may come across some of my unstructure
 </div>
 
 <div style="text-align: center;">
-    <img src="/images/blog-reason.jpg" alt="Centered Resized Image" width="500" />
+    <img src="/images/blog-reason.jpg" alt="Centered Resized Image" width="400" />
 </div>
 
