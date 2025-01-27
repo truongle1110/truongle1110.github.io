@@ -34,3 +34,7 @@ Trước mắt t cũng dừng suy nghĩ học tập và làm việc để gây d
 Kết bài
 
 Đây là suy nghĩ vừa trẻ trâu vừa già trâu của 1 đứa tuổi nửa ông nửa thằng, mn lỡ bấm tay vào đọc được xin đừng đánh giá, tự do ngôn luận là quyền của mỗi người nhưng mà tự do ngôn luận ngu bị chửi thì tội lắm haha.
+
+<div style="text-align: center;">
+    <img src="/images/post2.jpg" alt="Centered Resized Image" width="400" />
+</div>
