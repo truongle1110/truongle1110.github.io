@@ -5,7 +5,7 @@ permalink: /posts/2025/01/academic-or-industry/
 author_profile: false
 related: false
 ---
-Nhìn cái tiêu đề, mn trước khi click vào sẽ nghĩ rằng đây là content được viết bằng tiếng Anh. Thật sự, chẳng nhớ lần cuối cùng cầm bút viết tròn trịa một câu tiếng Việt là khi nào nữa. Thôi coi như một challenge nhỏ cho bản thân vậy (học lại văn). Lâu không viết bằng tiếng Việt, chẳng biết xưng hô sao cho đúng, thôi kệ, cứ xưng hô là t (tớ, tau, tao, trường, etc., whatever you define), các bài sau cũng xưng hô kiểu này luôn.
+Nhìn cái tiêu đề, mn trước khi click vào sẽ nghĩ rằng đây là content được viết bằng tiếng Anh. Thật sự, chẳng nhớ lần cuối cùng cầm bút viết tròn trịa một câu tiếng Việt là khi nào nữa. Thôi coi như một challenge nhỏ cho bản thân vậy (kiểu học lại văn). Lâu không viết bằng tiếng Việt, chẳng biết xưng hô sao cho đúng, thôi kệ, cứ xưng hô là t (tớ, tau, tao, trường, etc., whatever you define), các bài sau cũng xưng hô kiểu này luôn.
 
 Vào bài.
 
@@ -21,14 +21,16 @@ Ngoài lề 1 tí, hồi trước ở chung 2 đứa nói chuyện khá nhiều,
 
 Bàn thêm 1 tí về teaching, PhD ở lab t chúng nó có thể đi dạy nhờ kiến thức đã thu nạp được trong quá trình học Master/Engineer, và thesis của tụi nó khá là compatible với background cũng như research field của lab. T, nói riêng và các PhD của giáo t nói chung, là trường hợp ngoại lệ. Nếu được dạy học, t dường như chỉ biết dạy một số môn về Programming cơ bản, Control Theory (phải review lại giáo trình đại học mới dạy lại được chứ quên hết rồi), và chút ít về mạch điện tử. Bên cạnh đó, cộng với vốn tiếng Pháp hạn chế (chủ yếu là từ học lỏm) của t, teaching hiện tại dường như là impossible.
 
-T cũng nhận được nhiều câu hỏi là làm ở Pháp hay về VN làm, chủ yếu từ bạn bè và người thân. Sau 1.5 năm du học, t được nghe khá nhiều chuyện về việc này từ một số anh em đi trước. 2 ông anh t quen ở Nancy học PhD liên quan đến khoa học cơ bản, một ông làm về Hoá, một ông làm về Vật Lý. 2 cụ tâm sự hồi trước cũng mơ mộng lắm, xác định về VN làm rồi apply hẳn ở cả viện dầu khí và viện hàn lâm, respectively. Anh làm bên hoá từ chối mức lương 7tr offer bởi viện dầu khí, anh vật lý thì khác, chấp nhận mức lương 3.5tr của viện hàn lâm và làm đó một thời gian trước khi rút chạy vì bị reject proposal và môi trường quan liêu. Sau đó ổng qua Pháp làm postdoc và được nhận hẳn làm Enseignant Chercheur cho CNRS (Centre national de la recherche scientifique) với cái proposal bị reject từ viện hàn lâm =)).
+T cũng nhận được nhiều câu hỏi là làm ở Pháp hay về VN làm, chủ yếu từ bạn bè và người thân. Sau 1.5 năm du học, t được nghe khá nhiều chuyện về việc này từ một số anh em đi trước. 2 ông anh t quen ở Nancy từng học PhD liên quan đến khoa học cơ bản, một ông làm về Hoá, một ông làm về Vật Lý. 2 cụ tâm sự hồi trước cũng mơ mộng lắm, xác định về VN làm, rồi apply hẳn ở cả viện dầu khí và viện hàn lâm, respectively. Anh làm bên hoá từ chối mức lương 7tr offer bởi viện dầu khí, anh vật lý thì khác, chấp nhận mức lương 3.5tr của viện hàn lâm và làm đó một thời gian trước khi rút chạy vì bị reject proposal và môi trường quan liêu. Sau đó ổng qua Pháp làm postdoc và được nhận hẳn làm Enseignant Chercheur cho CNRS (Centre national de la recherche scientifique) với cái proposal bị reject từ viện hàn lâm =)).
 
 For justification, t yêu Việt Nam, nhưng phải nhìn thẳng vào sự thật là nhiều người tài có khả năng + tâm huyết muốn xây dựng đất nước, ít nhất là trong giới khoa học, nhưng cơ chế nhà nước không đủ tốt để xây dựng một môi trường cho họ phát triển, thậm chí là kìm hãm tài năng vì thói quan liêu và COCC. Bố mẹ t làm viên chức nhà nước, t cũng không khó để nhìn ra sự thật hiển nhiên này.
 
-Với t thì khác, t không làm về khoa học cơ bản,
+Với t thì khác, t không làm về khoa học cơ bản, nên xin được việc ở industry có vẻ dễ thở hơn so với 2 ông anh kia. T chỉ nghĩ là, nếu có làm academic, chắc t sẽ không làm ở Việt Nam, môi trường academic ở Pháp t nghĩ khá tự do, plus t vẫn còn thích viết báo (ít nhất là cho tới lúc này), nên có vẻ đây là một reasonable option.
 
+Còn industry job, dell biết nữa, trường hợp này t chỉ có một số câu điều kiện if-else mơ hồ trong đầu, cũng chẳng bao giờ đặt bút xuống ghi ra rõ ràng. Nhưng nếu để nói ra, t nghĩ sau khi xong PhD nên ở lại làm một thời gian rồi về cũng chưa muộn, mục đích 1 phần là để moi kinh nghiệm của nước phát triển rồi áp dụng vào một nước đang phát triển như VN, thứ 2 là dù gì VN cũng sính ngoại, khi có bằng cấp cùng kinh nghiệm ở nước ngoài thì công ty sẽ trả m lương tương đương kĩ sư nước ngoài (cái này hồi trước nghe ông thầy ở BK nói vậy).
 
-2 ông anh
+Trước mắt t cũng dừng suy nghĩ học tập và làm việc để gây dựng thứ gì đó lớn lao giống hồi mộng mơ thời sinh viên, như kiểu xây dựng đất nước, leave for young generation a legacy, blah blah. Trong khoảng thời gian 3-4 năm tiếp thì chỉ cần no cái bụng + có chút tiền rủng rỉnh + tìm hiểu bản thân muốn gì là đủ. Mấy ông anh bảo thị trường IT ở US có vẻ năng động nên cũng không ngoại trừ khả năng di cư qua một đất nước khác ngoài Pháp trong tương lai.
 
-Academic vn
+Kết bài
 
+Đây là suy nghĩ vừa trẻ trâu vừa già trâu của 1 đứa tuổi nửa ông nửa thằng, mn lỡ bấm tay vào đọc được xin đừng đánh giá, tự do ngôn luận là quyền của mỗi người nhưng mà tự do ngôn luận ngu bị chửi thì tội lắm haha.
