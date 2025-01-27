@@ -1,0 +1,32 @@
+---
+title: 'Academic or Industry?'
+date: 2025-01-27
+permalink: /posts/2025/01/academic-or-industry/
+author_profile: false
+related: false
+---
+Nhìn cái tiêu đề, mn trước khi click vào sẽ nghĩ rằng đây là content được viết bằng tiếng Anh. Thật sự, chẳng nhớ lần cuối cùng cầm bút viết tròn trịa một câu tiếng Việt là khi nào nữa. Thôi coi như một challenge nhỏ cho bản thân vậy (học lại văn). Lâu không viết bằng tiếng Việt, chẳng biết xưng hô sao cho đúng, thôi kệ, cứ xưng hô là t (tớ, tau, tao, trường, etc., whatever you define), các bài sau cũng xưng hô kiểu này luôn.
+
+Vào bài.
+
+Như cái tiêu đề, thì chắc đây là câu hỏi muôn thuở của không ít PhD student. Còn 1 năm rưỡi nữa là t bảo vệ, PhD ở Pháp thường là 3 năm, vậy tính ra một nửa chặng đường PhD đã xong rồi, nhanh vkl =)). Còn sốc hơn nữa là nếu như expected, t sẽ tốt nghiệp PhD lúc chưa tròn 26, điều mà t chưa bao giờ nghĩ sẽ xảy ra trong cuộc đời. Điều này chắc có thể coi như vừa là lợi thế, vừa là áp lực cho t. Lợi thế vì sau khi tốt nghiệp có thể có nhiều job opportunity, làm kinh tế sớm hơn so với một số người làm PhD ở Mỹ, Hàn, etc (thường là 4-5 năm, học hết cmn thanh xuân) => Học được game đời nó khác với game trường lớp thế nào sớm hơn. Áp lực vì có thể thấy mình còn non tơ, ngáo cần khi đi làm với một học vị cao trong một độ tuổi trẻ như vậy.
+
+Hiện tại, tiến độ vẫn ok, sau hơn 1 năm self-learning, làm data cho project, literature review thì t cũng học được kha khá (nhưng hơi chán vì review thì chỉ làm theoretical). Cuối cùng t cũng được sang phase mới, làm implementation (code kiếc, evaluation) nhiều hơn nên có vẻ interesting hơn. Tuần này vừa nộp bản draft journal article cho giáo, giáo bảo để giáo xem rồi tầm tháng 2 nộp, cứ về enjoy Tết đi (t nghĩ giáo cũng biết t không đi chơi nghỉ đông để làm cho xong việc rồi về ăn Tết), cũng cảm thấy dzui.
+
+Thời điểm này, t cũng đang bắt đầu nghĩ tới hướng đi tiếp theo cho bản thân. Ban đầu t có vài suy nghĩ nghiêm túc về việc làm industry, đơn giản là vì nó kiếm được khá hơn bên academic. Bản thân t cũng thích làm research, việc tìm ra gaps của ngành rồi tìm cách giải quyết nó là cảm giác cực kì chill, mặc dù khá take time. Ngành của t là ngành ngách, không thuần AI, may mắn thesis của t cũng liên quan đến AI khá nhiều. Sau khi xong bài review, t có thoải mái thời gian hơn để đào sâu về nó, vừa để tìm ý tưởng cho bài tiếp theo, vừa để mài technical skill sau này còn kiếm việc.
+
+T được làm trong một research group mà đa số các Prof đều xuất thân là Maître de conférence. Ở Pháp, hiện tại t biết có 2 loại: Maître de conférence và Enseignant Chercheur. Nôm na cái đầu tiên sẽ bao gồm teaching và research, trong đó teaching là mandatory. Cái kia, Enseignant Chercheur, sẽ thuần về nghiên cứu và do đó apply cũng cực kì cạnh tranh. T không có vấn đề gì với việc dạy học, thỉnh thoảng ăn trưa với lũ bạn cùng lab, chúng nó sẽ hỏi về future plan của nhau, đa số những người được t hỏi sẽ bảo rằng tụi nó thích academic hơn industry (ngoại trừ t với 1 ông cháu Morocco cùng tuổi), và teaching mang lại cho tụi nó cảm giác vui vẻ, kiểu như vì sẽ giúp tụi nó tổng hợp và ôn lại kiến thức (sharing is the best way for learning), cũng hợp lý. Thậm chí, một số đứa còn coi việc lấy PhD của tụi nó như công cụ sau này để teaching như ông bạn flatmate cũ người Pháp của t. 
+
+Ngoài lề 1 tí, hồi trước ở chung 2 đứa nói chuyện khá nhiều, nó là dân thuần cơ khí, đã tốt nghiệp bằng kĩ sư và master ở Pháp và Đức. Ông cháu này khá giỏi trong cách nói chuyện và dẫn dắt (thành thạo tiếng Anh, Đức, còn Pháp là tiếng mẹ đẻ nó rồi), ông giáo t lần đầu gặp cũng bảo t rằng m nên học cách làm việc của thằng này vì t thấy có vẻ cách làm việc của nó có thiện cảm (international working style). Về research, ban đầu nó tâm sự rằng có 1 chút vấn đề với bà giáo của nó, kiểu như áp đặt trong 1 số việc nhỏ nhặt về thời gian làm việc ở lab, nhưng t vẫn cảm nhận cách làm việc của nó khá ok và nó thật sự nghiêm túc trong việc làm PhD. Ngoài ra, tên này có vẻ như là 1 athlete thực thụ, nó dành thời gian để training (đạp xe và chạy bộ) mỗi ngày, có lần còn khoe với t chạy 10km trong vòng 37 phút =)). Tóm lại, t học được khá nhiều thứ khi ở với ông cháu này, chỉ tiếc nó chỉ ở hơn 6 tháng rồi chuyển qua Grenoble trao đổi. Back to vấn đề chính, sau một thời gian làm kĩ sư cơ khí nó nhận ra: "Adu, chẳng lẽ mình phải làm việc này cả đời à?". Rồi nó bắt đầu chập chững trong sự nghiệp gõ đầu trẻ (nó bảo t vậy). Ông cháu này đã từng dạy học ở Cấp 3, và nó nói cái bằng PhD cho phép nó có 1 vé làm việc đó ở Uni.
+
+Bàn thêm 1 tí về teaching, PhD ở lab t chúng nó có thể đi dạy nhờ kiến thức đã thu nạp được trong quá trình học Master/Engineer, và thesis của tụi nó khá là compatible với background cũng như research field của lab. T, nói riêng và các PhD của giáo t nói chung, là trường hợp ngoại lệ. Nếu được dạy học, t dường như chỉ biết dạy một số môn về Programming cơ bản, Control Theory (phải review lại giáo trình đại học mới dạy lại được chứ quên hết rồi), và chút ít về mạch điện tử. Bên cạnh đó, cộng với vốn tiếng Pháp hạn chế (chủ yếu là từ học lỏm) của t, teaching hiện tại dường như là impossible.
+
+T cũng nhận được nhiều câu hỏi là làm ở Pháp hay về VN làm, chủ yếu từ bạn bè và người thân. Sau 1.5 năm du học, t được nghe khá nhiều chuyện về việc này từ một số anh em đi trước. 2 ông anh t quen ở Nancy học PhD liên quan đến khoa học cơ bản, một ông làm về Hoá, một ông làm về Vật Lý. 2 cụ tâm sự hồi trước cũng mơ mộng lắm, xác định về VN làm rồi apply hẳn ở cả viện dầu khí và viện hàn lâm, respectively. Anh làm bên hoá từ chối mức lương 7tr offer bởi viện dầu khí, anh vật lý thì khác, chấp nhận mức lương 3.5tr offer bởi viện hàn lâm và làm đó một thời gian trước khi rút chạy vì bị reject proposal và môi trường quan liêu. Sau đó ổng qua Pháp làm postdoc và được nhận hẳn làm Enseignant Chercheur cho CNRS (Centre national de la recherche scientifique) với cái proposal bị reject từ viện hàn lâm =)).
+
+Thú thật hiện giờ, dell biết nữa, trong đầu t chỉ có 1 số hình ảnh mơ hồ về câu điều kiện if-else, nếu cái này xảy ra thì mình chọn cái này, blah blah. 
+
+
+2 ông anh
+
+Academic vn
+
