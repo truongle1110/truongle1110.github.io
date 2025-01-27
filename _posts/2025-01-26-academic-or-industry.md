@@ -1,6 +1,6 @@
 ---
 title: 'Academic or Industry?'
-date: 2025-01-27
+date: 2025-01-26
 permalink: /posts/2025/01/academic-or-industry/
 author_profile: false
 related: false
