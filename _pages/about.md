@@ -54,3 +54,4 @@ Aspiring to become a Data Scientist (preferably in Prognostics and Health Manage
 
 Recent news
 ======
+* March 2024: My collaborative paper with Chiara Franciosi, Phuc Do and Alexandre Voisin, “Contribution of Maintenance to Reconfigurable Manufacturing Systems: State of the Art and Challenges”, has been accepted in 6th IFAC Workshop on Advanced Maintenance Engineering, Services and Technology (AMEST). [[paper](https://www.sciencedirect.com/science/article/pii/S2405896324007778)]
