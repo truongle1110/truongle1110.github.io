@@ -9,7 +9,7 @@ tags:
 ---
 Flashback to 31 October 2023, when I had my first halloween celebration with some friends.
 
-We first gathered at a Vietnamese bubble tea shop owned by a fellow Vietnamese, and this was the view of the street we experienced at night.
+We first gathered at a bubble tea shop owned by a fellow Vietnamese, and this was the view of the street we experienced at night.
 
 <div style="text-align: center;">
     <img src="/images/first-halloween/IMG_1611.JPG" alt="Centered Resized Image" width="500" />
