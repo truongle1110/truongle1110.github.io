@@ -11,5 +11,5 @@ tags:
 Bring it back to 31 October 2023, when I had my first halloween celebration with some Vietnamese friends.
 
 <div style="text-align: center;">
-    <img src="/images/first-halloween/IMG_1611.HEIC" alt="Centered Resized Image" width="500" />
+    <img src="/images/first-halloween/IMG_1611.HEIC"/>
 </div>
