@@ -4,6 +4,8 @@ date: 2025-01-18
 permalink: /posts/2025/01/academic-or-industry/
 author_profile: false
 related: false
+tags:
+  - confession
 ---
 Nhìn cái tiêu đề, mn trước khi click vào sẽ nghĩ rằng đây là content được viết bằng tiếng Anh. Thật sự, chẳng nhớ lần cuối cùng cầm bút viết tròn trịa một câu tiếng Việt là khi nào nữa. Thôi coi như một challenge nhỏ cho bản thân vậy (kiểu học lại văn). Lâu không viết bằng tiếng Việt, chẳng biết xưng hô sao cho đúng, thôi kệ, cứ xưng hô là t (tớ, tau, tao, trường, etc., whatever you define), các bài sau cũng xưng hô kiểu này luôn.
 
