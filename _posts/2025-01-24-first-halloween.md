@@ -16,6 +16,7 @@ Bring it back to 31 October 2023, when I had my first halloween celebration with
 
 <div style="text-align: center;">
   <video width="640" height="360" controls>
-    <source src="/images/first-halloween/IMG_1612.mp4" type="video/quicktime">
+    <source src="/images/first-halloween/IMG_1612.mp4" type="video/mp4">
+    Your browser does not support the video tag.
   </video>
 </div>
