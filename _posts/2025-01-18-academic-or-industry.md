@@ -35,7 +35,7 @@ Kết bài
 
 Tóm lại, t cảm thấy vẫn chưa biết bản thân nên đi theo hướng nào, nhiều người không thích academic vì nó không kiếm được nhiều, cũng không ít ông anh từ bỏ industry về làm academic chỉ vì môi trường tự do và flexible time. Còn nhớ có một bài trên VietPhD.org có viết là "Một số người chọn làm Prof vì họ thấy đây là cách tốt nhất để dành thời gian cho gia đình". Vì những lý do này, t nghĩ t cũng nên đưa ra quyết định càng sớm càng tốt. 
 
-Đây là suy nghĩ vừa trẻ trâu vừa già trâu của 1 đứa tuổi nửa ông nửa thằng suffer from Permanent Head Damage, mn lỡ bấm tay vào đọc được xin đừng đánh giá, tự do ngôn luận là quyền của mỗi người nhưng mà tự do ngôn luận ngu bị chửi thì tội lắm haha.
+Đây là suy nghĩ vừa trẻ trâu vừa già trâu của 1 đứa tuổi nửa ông nửa thằng suffer from Permanent Head Damage, mn lỡ bấm tay vào đọc được xin đừng đánh giá, tự do ngôn luận là quyền của mỗi người nhưng mà tự do ngôn luận ngu bị chửi thì tội t lắm haha.
 
 <div style="text-align: center;">
     <img src="/images/post2.jpg" alt="Centered Resized Image" width="400" />
