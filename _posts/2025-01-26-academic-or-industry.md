@@ -29,11 +29,13 @@ Với t thì khác, t không làm về khoa học cơ bản, nên xin được v
 
 Còn industry job, dell biết nữa, trường hợp này t chỉ có một số câu điều kiện if-else mơ hồ trong đầu, cũng chẳng bao giờ đặt bút xuống ghi ra rõ ràng. Nhưng nếu để nói ra, t nghĩ sau khi xong PhD nên ở lại làm một thời gian rồi về cũng chưa muộn, mục đích 1 phần là để moi kinh nghiệm của nước phát triển rồi áp dụng vào một nước đang phát triển như VN, thứ 2 là dù gì VN cũng sính ngoại, khi có bằng cấp cùng kinh nghiệm ở nước ngoài thì công ty sẽ trả m lương tương đương kĩ sư nước ngoài (cái này hồi trước nghe ông thầy ở BK nói vậy).
 
-Trước mắt t cũng dừng suy nghĩ học tập và làm việc để gây dựng thứ gì đó lớn lao giống hồi mộng mơ thời sinh viên, như kiểu xây dựng đất nước, leave for young generation a legacy, blah blah. Trong khoảng thời gian 3-4 năm tiếp thì chỉ cần no cái bụng + có chút tiền rủng rỉnh + tìm hiểu bản thân muốn gì là đủ. Mấy ông anh bảo thị trường IT ở US có vẻ năng động nên cũng không ngoại trừ khả năng di cư qua một đất nước khác ngoài Pháp trong tương lai.
+Trước mắt t cũng dừng suy nghĩ học tập và làm việc để gây dựng thứ gì đó lớn lao giống hồi mộng mơ thời sinh viên, như kiểu xây dựng đất nước, leave for young generation a legacy, blah blah. Trong khoảng thời gian 3-4 năm tiếp thì chỉ cần no cái bụng + có chút tiền rủng rỉnh + tìm hiểu bản thân muốn gì là đủ. Mấy ông anh bảo thị trường IT ở US có vẻ năng động nên cũng không ngoại trừ khả năng t sẽ di cư qua một đất nước khác ngoài Pháp trong tương lai nếu không có ràng buộc (girlfriend, family, ...).
 
 Kết bài
 
-Đây là suy nghĩ vừa trẻ trâu vừa già trâu của 1 đứa tuổi nửa ông nửa thằng, mn lỡ bấm tay vào đọc được xin đừng đánh giá, tự do ngôn luận là quyền của mỗi người nhưng mà tự do ngôn luận ngu bị chửi thì tội lắm haha.
+Tóm lại, t cảm thấy vẫn chưa biết bản thân nên đi theo hướng nào, nhiều người không thích academic vì nó không kiếm được nhiều, cũng không ít ông anh từ bỏ industry về làm academic chỉ vì môi trường tự do và flexible time. Còn nhớ có một bài trên VietPhD.org có viết là "Một số người chọn làm Prof vì họ thấy đây là cách tốt nhất để dành thời gian cho gia đình". Vì những lý do này, t nghĩ t cũng nên đưa ra quyết định càng sớm càng tốt. 
+
+Đây là suy nghĩ vừa trẻ trâu vừa già trâu của 1 đứa tuổi nửa ông nửa thằng suffer from Permanent Head Damage, mn lỡ bấm tay vào đọc được xin đừng đánh giá, tự do ngôn luận là quyền của mỗi người nhưng mà tự do ngôn luận ngu bị chửi thì tội lắm haha.
 
 <div style="text-align: center;">
     <img src="/images/post2.jpg" alt="Centered Resized Image" width="400" />
