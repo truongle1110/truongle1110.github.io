@@ -7,7 +7,8 @@ related: false
 tags:
   - life
 ---
-Bring it back to 31 October 2023, when I had my first halloween celebration with some friends.
+Flashback to 31 October 2023, when I had my first halloween celebration with some friends.
+
 We first gathered at a Vietnamese bubble tea shop owned by a fellow Vietnamese, and this was the view of the street we experienced at night.
 
 <div style="text-align: center;">
