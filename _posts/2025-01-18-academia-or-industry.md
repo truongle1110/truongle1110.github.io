@@ -1,7 +1,7 @@
 ---
-title: 'Academic or Industry?'
+title: 'Academia or Industry?'
 date: 2025-01-18
-permalink: /posts/2025/01/academic-or-industry/
+permalink: /posts/2025/01/academia-or-industry/
 author_profile: false
 related: false
 tags:
@@ -15,9 +15,9 @@ Như cái tiêu đề, thì chắc đây là câu hỏi muôn thuở của khôn
 
 Hiện tại, tiến độ vẫn ok, sau hơn 1 năm self-learning, làm data cho project, literature review thì t cũng học được kha khá (nhưng hơi chán vì review thì chỉ làm theoretical). Cuối cùng t cũng được sang phase mới, làm implementation (code kiếc, evaluation) nhiều hơn nên có vẻ interesting hơn. Tuần này vừa nộp bản draft journal article cho giáo, giáo bảo để giáo xem rồi tầm tháng 2 nộp, cứ về enjoy Tết đi (t nghĩ giáo cũng biết t không đi chơi nghỉ đông để làm cho xong việc rồi về ăn Tết), cũng cảm thấy dzui.
 
-Thời điểm này, t cũng đang bắt đầu nghĩ tới hướng đi tiếp theo cho bản thân. Ban đầu t có vài suy nghĩ nghiêm túc về việc làm industry, đơn giản là vì nó kiếm được khá hơn bên academic. Bản thân t cũng thích làm research, việc tìm ra gaps của ngành rồi tìm cách giải quyết nó là cảm giác cực kì chill, mặc dù khá take time. Ngành của t là ngành ngách, không thuần AI, may mắn thesis của t cũng liên quan đến AI khá nhiều. Sau khi xong bài review, t có thoải mái thời gian hơn để đào sâu về nó, vừa để tìm ý tưởng cho bài tiếp theo, vừa để mài technical skill sau này còn kiếm việc.
+Thời điểm này, t cũng đang bắt đầu nghĩ tới hướng đi tiếp theo cho bản thân. Ban đầu t có vài suy nghĩ nghiêm túc về việc làm industry, đơn giản là vì nó kiếm được khá hơn bên academia. Bản thân t cũng thích làm research, việc tìm ra gaps của ngành rồi tìm cách giải quyết nó là cảm giác cực kì chill, mặc dù khá take time. Ngành của t là ngành ngách, không thuần AI, may mắn thesis của t cũng liên quan đến AI khá nhiều. Sau khi xong bài review, t có thoải mái thời gian hơn để đào sâu về nó, vừa để tìm ý tưởng cho bài tiếp theo, vừa để mài technical skill sau này còn kiếm việc.
 
-T được làm trong một research group mà đa số các Prof đều xuất thân là Maître de conférence. Ở Pháp, hiện tại t biết có 2 loại: Maître de conférence và Enseignant Chercheur. Nôm na cái đầu tiên sẽ bao gồm teaching và research, trong đó teaching là mandatory. Cái kia, Enseignant Chercheur, sẽ thuần về nghiên cứu và do đó apply cũng cực kì cạnh tranh. T không có vấn đề gì với việc dạy học, thỉnh thoảng ăn trưa với lũ bạn cùng lab, chúng nó sẽ hỏi về future plan của nhau, đa số những người được t hỏi sẽ bảo rằng tụi nó thích academic hơn industry (ngoại trừ t với 1 ông cháu Morocco cùng tuổi), và teaching mang lại cho tụi nó cảm giác vui vẻ, kiểu như vì sẽ giúp tụi nó tổng hợp và ôn lại kiến thức (sharing is the best way for learning), cũng hợp lý. Thậm chí, một số đứa còn coi việc lấy PhD của tụi nó như công cụ sau này để teaching như ông bạn flatmate cũ người Pháp của t. 
+T được làm trong một research group mà đa số các Prof đều xuất thân là Maître de conférence. Ở Pháp, hiện tại t biết có 2 loại: Maître de conférence và Enseignant Chercheur. Nôm na cái đầu tiên sẽ bao gồm teaching và research, trong đó teaching là mandatory. Cái kia, Enseignant Chercheur, sẽ thuần về nghiên cứu và do đó apply cũng cực kì cạnh tranh. T không có vấn đề gì với việc dạy học, thỉnh thoảng ăn trưa với lũ bạn cùng lab, chúng nó sẽ hỏi về future plan của nhau, đa số những người được t hỏi sẽ bảo rằng tụi nó thích academia hơn industry (ngoại trừ t với 1 ông cháu Morocco cùng tuổi), và teaching mang lại cho tụi nó cảm giác vui vẻ, kiểu như vì sẽ giúp tụi nó tổng hợp và ôn lại kiến thức (sharing is the best way for learning), cũng hợp lý. Thậm chí, một số đứa còn coi việc lấy PhD của tụi nó như công cụ sau này để teaching như ông bạn flatmate cũ người Pháp của t. 
 
 Ngoài lề 1 tí, ông bạn này sinh năm 97 (= tuổi Jack), hồi trước ở chung 2 đứa nói chuyện khá nhiều, nó là dân thuần cơ khí, đã tốt nghiệp bằng kĩ sư và master ở Pháp và Đức. Ông cháu này khá giỏi trong cách nói chuyện và trình bày (thành thạo tiếng Anh, Đức, còn Pháp là tiếng mẹ đẻ nó rồi), ông giáo t lần đầu gặp cũng bảo t rằng m nên học cách làm việc của thằng này vì t thấy có vẻ cách làm việc của nó có thiện cảm (international working style). Về research, ban đầu nó tâm sự rằng có 1 chút vấn đề với bà giáo của nó, kiểu như áp đặt trong 1 số việc nhỏ nhặt về thời gian làm việc ở lab, nhưng t vẫn cảm nhận cách làm việc của nó khá ok và nó thật sự nghiêm túc trong việc làm PhD. Ngoài ra, tên này có vẻ như là 1 athlete thực thụ, nó dành thời gian để training (đạp xe và chạy bộ) mỗi ngày, có lần còn khoe với t chạy 10km trong vòng 37 phút =)). Tóm lại, t học được khá nhiều thứ khi ở với ông cháu này, chỉ tiếc nó chỉ ở hơn 6 tháng rồi chuyển qua Grenoble trao đổi. Back to vấn đề chính, sau một thời gian làm kĩ sư cơ khí nó nhận ra: "Adu, chẳng lẽ mình phải làm việc này cả đời à?". Rồi nó bắt đầu chập chững trong sự nghiệp gõ đầu trẻ (nó bảo t vậy). Ông cháu này đã từng dạy học ở Cấp 3, và nó nói cái bằng PhD cho phép nó có 1 vé làm việc đó ở Uni.
 
@@ -27,7 +27,7 @@ T cũng nhận được nhiều câu hỏi là làm ở Pháp hay về VN làm, 
 
 For justification, t yêu Việt Nam, nhưng phải nhìn thẳng vào sự thật là nhiều người có khả năng + tâm huyết muốn xây dựng đất nước, ít nhất là trong giới khoa học, nhưng cơ chế nhà nước không đủ tốt để xây dựng một môi trường cho họ phát triển, thậm chí là kìm hãm tài năng vì thói quan liêu và COCC. Bố mẹ t làm viên chức nhà nước, t cũng không khó để nhìn ra sự thật hiển nhiên này.
 
-Với t thì khác, t không làm về khoa học cơ bản, nên xin được việc ở industry có vẻ dễ thở hơn so với 2 ông anh kia. T chỉ nghĩ là, nếu có làm academic, chắc t sẽ không làm ở Việt Nam, môi trường academic ở Pháp t nghĩ khá tự do, plus t vẫn còn thích viết báo (ít nhất là cho tới lúc này), nên có vẻ đây là một reasonable option.
+Với t thì khác, t không làm về khoa học cơ bản, nên xin được việc ở industry có vẻ dễ thở hơn so với 2 ông anh kia. T chỉ nghĩ là, nếu có làm academia, chắc t sẽ không làm ở Việt Nam, môi trường academia ở Pháp t nghĩ khá tự do, plus t vẫn còn thích viết báo (ít nhất là cho tới lúc này), nên có vẻ đây là một reasonable option.
 
 Còn industry job, dell biết nữa, trường hợp này t chỉ có một số câu điều kiện if-else mơ hồ trong đầu, cũng chẳng bao giờ đặt bút xuống ghi ra rõ ràng. Nhưng nếu để nói ra, t nghĩ sau khi xong PhD nên ở lại làm một thời gian rồi về cũng chưa muộn, mục đích 1 phần là để moi kinh nghiệm của nước phát triển rồi áp dụng vào một nước đang phát triển như VN, thứ 2 là dù gì VN cũng sính ngoại, khi có bằng cấp cùng kinh nghiệm ở nước ngoài thì công ty sẽ trả m lương tương đương kĩ sư nước ngoài (cái này hồi trước nghe ông thầy ở BK nói vậy).
 
@@ -35,7 +35,7 @@ Trước mắt t cũng dừng suy nghĩ học tập và làm việc để gây d
 
 Kết bài
 
-Tóm lại, t cảm thấy vẫn chưa biết bản thân nên đi theo hướng nào, nhiều người không thích academic vì nó không kiếm được nhiều, cũng không ít ông anh từ bỏ industry về làm academic chỉ vì môi trường tự do và flexible time. Còn nhớ có một bài trên VietPhD.org có viết là "Một số người chọn làm Prof vì họ thấy đây là cách tốt nhất để dành thời gian cho gia đình". Vì những lý do này, t nghĩ t cũng nên đưa ra quyết định càng sớm càng tốt. 
+Tóm lại, t cảm thấy vẫn chưa biết bản thân nên đi theo hướng nào, nhiều người không thích academia vì nó không kiếm được nhiều, cũng không ít ông anh từ bỏ industry về làm academia chỉ vì môi trường tự do và flexible time. Còn nhớ có một bài trên VietPhD.org có viết là "Một số người chọn làm Prof vì họ thấy đây là cách tốt nhất để dành thời gian cho gia đình". Vì những lý do này, t nghĩ t cũng nên đưa ra quyết định càng sớm càng tốt. 
 
 Đây là suy nghĩ vừa trẻ trâu vừa già trâu của 1 đứa tuổi nửa ông nửa thằng suffer from Permanent Head Damage, mn lỡ bấm tay vào đọc được xin đừng đánh giá, tự do ngôn luận là quyền của mỗi người nhưng mà tự do ngôn luận ngu bị chửi thì tội t lắm haha.
 
