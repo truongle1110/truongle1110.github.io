@@ -14,7 +14,7 @@ We first gathered at a bubble tea shop owned by a Vietnamese bro, and this was t
 <div style="text-align: center;">
     <img src="/images/first-halloween/IMG_1611.JPG" alt="Centered Resized Image" width="500" />
 </div>
----
+<br>  <!-- Blank line -->
 <div style="text-align: center;">
   <video width="640" height="360" controls>
     <source src="/images/first-halloween/IMG_1612.mp4" type="video/mp4">
