@@ -9,7 +9,7 @@ tags:
 ---
 This is the title of the song I replayed the most during Tet holiday break after a long period of work.<br>
 I started listening to rap music only after moving to France, before that, I rarely approached this genre intentionally. Rap Viet season 3 might be the origin, I had strong feelings about some of the songs on this show. Then I found out more artists working on this genre and they become my favorites, such as: Den Vau, Obito, ...<br>
-
+Speaking of this song, it is the 11th track from Đánh Đổi, an album released by Obito in October 2023. This is also the only album where I’ve listened to every song. The album reflects his personal experiences, covering everything from internal struggles to his journey of growth in both life and career. This is similar to the challenges many young people face today.
 <p>
 [Lyrics]:<br>
 Khi mà ngây thơ không còn nguyên, thì tìm đâu ra bình yên<br>
