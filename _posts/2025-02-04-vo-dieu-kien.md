@@ -50,6 +50,6 @@ Có thể làm việc cùng một người<br>
 Có thể chia sẻ cho một người<br>
 Và có thể để đi cùng với một người<br>
 </p>
-See: [Vô điều kiện](https://www.youtube.com/watch?v=Y1QXFXGfrTI)
+👉 [Vô điều kiện](https://www.youtube.com/watch?v=Y1QXFXGfrTI)
 
 
