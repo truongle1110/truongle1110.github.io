@@ -7,7 +7,7 @@ related: false
 tags:
   - music
 ---
-This is the title of the song I replayed the most during Tet holiday break after a long period of work.
+This is the title of the song I replayed the most during Tet holiday break after a long time caring just about work.
 
 I started listening to rap music only after moving to France, before that, I rarely approached this genre intentionally. Rap Viet season 3 might be the origin, I had strong feelings about some of the songs on this show. Then I found out more artists working on this genre and they become my favorites, such as: Den Vau, Obito, ...
 
