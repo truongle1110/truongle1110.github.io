@@ -9,7 +9,7 @@ tags:
 ---
 This is the title of the song I replayed the most during Tet holiday break after a long time caring just about work.
 
-I started listening to rap music only after moving to France, before that, I rarely approached this genre intentionally. Rap Viet season 3 might be the origin, I had strong feelings about some of the songs on this show. Then I found out more artists working on this genre and they become my favorites, such as: Den Vau, Obito, ...
+I started listening to rap music only after moving to France, before that, I rarely approached this genre intentionally. Rap Viet season 3 might be the origin, I had strong feelings about some of the songs on this show and realized: "Oh shit, rap music isn't that bad". Then I found out more artists working on this genre and they become my favorites, such as: Den Vau, Obito, ...
 
 Speaking of this song, it is the 11th track from Đánh Đổi, an album released by Obito in October 2023. This is also the only album where I’ve listened to every song. Before this album, Obito usually made cheerful and innocent songs like [Simple Love](https://www.youtube.com/watch?v=lUrmyU1cnxU) and [When You Look at Me](https://www.youtube.com/watch?v=OLvNRLAHKTQ), so I was really surprised when he released this one.
 
