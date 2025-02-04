@@ -36,4 +36,4 @@ Có thể làm việc cùng một người, có thể chia sẻ cho một ngư�
 </p>
 👉 [Vô điều kiện](https://www.youtube.com/watch?v=Y1QXFXGfrTI)
 
-Other impressive songs can be listed here: [Xuất phát điểm](https://www.youtube.com/watch?v=aF1tJEPWjIM), [Đánh đổi](https://www.youtube.com/watch?v=vPz8ftK_4bk), [Tell the kids I love them](https://www.youtube.com/watch?v=fw3MZm2lEVA)
+Other impressive songs in this album can be listed here: [Xuất phát điểm](https://www.youtube.com/watch?v=aF1tJEPWjIM), [Đánh đổi](https://www.youtube.com/watch?v=vPz8ftK_4bk), [Tell the kids I love them](https://www.youtube.com/watch?v=fw3MZm2lEVA)
