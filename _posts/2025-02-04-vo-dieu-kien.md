@@ -11,7 +11,7 @@ This is the title of the song I replayed the most during Tet holiday break after
 I started listening to rap music only after moving to France, before that, I rarely approached this genre intentionally. Rap Viet season 3 might be the origin, I had strong feelings about some of the songs on this show. Then I found out more artists working on this genre and they become my favorites, such as: Den Vau, Obito, ...<br>
 
 <p>
-[Vietnamese lyrics]:<br>
+[Lyrics]:<br>
 Khi mà ngây thơ không còn nguyên, thì tìm đâu ra bình yên<br>
 Nốc thêm viên để xua cơn noid, chân đi tìm sự vô điều kiện<br>
 Thấy được nhiều thứ cần kiêng, cố gắng cho đến lúc nằm yên<br>
@@ -29,10 +29,6 @@ Hay là ... tại tao ... tại mày ... tại đời<br>
 Sự vô điều kiện từng trong tao, nay lại thành có điều kiện<br>
 Tao cần điều kiện để có thể gặp một người, có thể đặt niềm tin vào một người<br>
 Có thể làm việc cùng một người, có thể chia sẻ cho một người và có thể để đi cùng với một người<br>
-</p>
-<p>
-[English lyrics]:<br>
-
 </p>
 👉 [Vô điều kiện](https://www.youtube.com/watch?v=Y1QXFXGfrTI)
 
