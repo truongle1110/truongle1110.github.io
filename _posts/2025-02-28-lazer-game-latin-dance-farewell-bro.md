@@ -23,4 +23,5 @@ Result:
 <div style="text-align: center;">
     <img src="/images/lazer-game-latin-dance-farewell-bro/game2.jpg" alt="Centered Resized Image" width="500" />
 </div>
-My name is Metamorph, it's super cool by the way.
+Before playing, I was confident that I will be one of the top players due to my shooting skill in the military course from undergrad and honed through PUBG Mobile. Futhermore, my name is Metamorph, it's super cool by the way.
+## Latin dance
