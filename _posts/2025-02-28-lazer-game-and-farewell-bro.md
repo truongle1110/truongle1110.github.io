@@ -24,4 +24,3 @@ Result:
     <img src="/images/lazer-game-and-farewell-bro/game2.jpg" alt="Centered Resized Image" width="500" />
 </div>
 Before playing, I was confident that I will be one of the top players due to my shooting skill in the military course from undergrad and honed through PUBG Mobile. Futhermore, my name is Metamorph, it's super cool by the way.
-## Latin dance
