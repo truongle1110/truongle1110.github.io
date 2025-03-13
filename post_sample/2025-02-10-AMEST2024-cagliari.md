@@ -5,5 +5,6 @@ permalink: /posts/2025/02/AMEST2024-cagliari/
 author_profile: false
 related: false
 tags:
-  - confession
+  - research
+  - travel
 ---

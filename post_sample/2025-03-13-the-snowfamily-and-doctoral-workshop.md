@@ -1,11 +1,12 @@
 ---
-title: 'Tự sự'
-date: 2025-02-10
-permalink: /posts/2025/02/tu-su/
+title: 'The snowfamily and doctoral workshop'
+date: 2025-03-13
+permalink: /posts/2025/03/tu-su/
 author_profile: false
 related: false
 tags:
-  - confession
+  - research
+  - life
 ---
-Bài này được inspired từ blog anh Duy.
+
 

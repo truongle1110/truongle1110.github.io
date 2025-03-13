@@ -1,11 +1,12 @@
 ---
-title: 'Tự sự'
-date: 2025-02-10
-permalink: /posts/2025/02/tu-su/
+title: 'Luxembourg'
+date: 2025-03-02
+permalink: /posts/2025/03/luxembourg/
 author_profile: false
 related: false
 tags:
-  - confession
+  - research
+  - life
 ---
-Bài này được inspired từ blog anh Duy.
+
 
