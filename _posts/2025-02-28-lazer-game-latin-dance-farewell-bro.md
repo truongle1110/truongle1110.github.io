@@ -1,5 +1,5 @@
 ---
-title: 'Lazer game, Latin dance and Farewell bro'
+title: 'Lazer game, latin dance and farewell bro'
 date: 2025-02-28
 permalink: /posts/2025/02/lazer-game/
 author_profile: false
