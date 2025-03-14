@@ -1,5 +1,5 @@
 ---
-title: 'Lazer game and farewell bro'
+title: 'Lazer shooting game and farewell bro'
 date: 2025-03-01
 permalink: /posts/2025/03/lazer-game-and-farewell-bro/
 author_profile: false
