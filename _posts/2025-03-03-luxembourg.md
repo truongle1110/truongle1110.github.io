@@ -18,5 +18,56 @@ We arrived at about 9.30 am, went down the street, visited Adolphe bridge, Ville
     <img src="/images/luxembourg/IMG_3981.jpg" alt="Centered Resized Image" width="500" />
 </div>
 <br>
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_3994.jpg" alt="Centered Resized Image" width="500" />
+</div>
+<br>
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_4006.jpg" alt="Centered Resized Image" width="500" />
+</div>
+<br>
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_4024.jpg" alt="Centered Resized Image" width="500" />
+</div>
+<br>
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_4056.jpg" alt="Centered Resized Image" width="500" />
+</div>
+<br>
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_4057.jpg" alt="Centered Resized Image" width="500" />
+</div>
+<br>
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_4079.jpg" alt="Centered Resized Image" width="500" />
+</div>
+<br>
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_4087.jpg" alt="Centered Resized Image" width="500" />
+</div>
+<br>
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_4088.jpg" alt="Centered Resized Image" width="500" />
+</div>
+<br>
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_4093.jpg" alt="Centered Resized Image" width="500" />
+</div>
+<br>
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_4095.jpg" alt="Centered Resized Image" width="500" />
+</div>
+<br>
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_4099.jpg" alt="Centered Resized Image" width="500" />
+</div>
+<br>
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_4100.jpg" alt="Centered Resized Image" width="500" />
+</div>
+<br>
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_4101.jpg" alt="Centered Resized Image" width="500" />
+</div>
 
-## Remark
+## Perspectives
