@@ -91,7 +91,8 @@ During the trip, my friends complained about my photography skill and taught me 
 * I personally prefer to see natural scenery than buildings, but it seems to have French-like architecture and food.
 * You can visit all outstanding places in one day, we returned at about 3 pm.
 
-## Bonus
+## Conclusion
+This picture makes my day.
 <div style="text-align: center;">
     <img src="/images/luxembourg/IMG_4079.jpg" alt="Centered Resized Image" width="500" />
 </div>
