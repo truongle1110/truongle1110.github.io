@@ -82,4 +82,13 @@ We arrived at about 9.30 am, went down the street, visited Adolphe bridge, Ville
     <img src="/images/luxembourg/IMG_4102.jpg" alt="Centered Resized Image" width="500" />
 </div>
 
-## Perspectives
+## Remarks
+* Convenient transportation and public services, free for Tram and museum (everyday).
+* Almost everything is written in French and German.
+* I personally prefer to see natural scenery than buildings, but it seems to have French-like architecture and food.
+* You can visit all outstanding places in one day, we returned at about 3 pm.
+
+## Bonus
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_4079.jpg" alt="Centered Resized Image" width="500" />
+</div>
