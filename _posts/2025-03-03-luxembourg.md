@@ -92,7 +92,7 @@ During the trip, my friends complained about my photography skill and taught me 
 * You can visit all outstanding places in one day, we returned at about 3 pm.
 
 ## Conclusion
-This picture makes my day.
+This picture made my day.
 <div style="text-align: center;">
     <img src="/images/luxembourg/IMG_4079.jpg" alt="Centered Resized Image" width="500" />
 </div>
