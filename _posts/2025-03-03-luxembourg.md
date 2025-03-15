@@ -39,10 +39,6 @@ We arrived at about 9.30 am, went down the street, visited Adolphe bridge, Ville
 </div>
 <br>
 <div style="text-align: center;">
-    <img src="/images/luxembourg/IMG_4079.jpg" alt="Centered Resized Image" width="500" />
-</div>
-<br>
-<div style="text-align: center;">
     <img src="/images/luxembourg/IMG_4087.jpg" alt="Centered Resized Image" width="500" />
 </div>
 <br>
@@ -68,6 +64,22 @@ We arrived at about 9.30 am, went down the street, visited Adolphe bridge, Ville
 <br>
 <div style="text-align: center;">
     <img src="/images/luxembourg/IMG_4101.jpg" alt="Centered Resized Image" width="500" />
+</div>
+<br>
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_4102.jpg" alt="Centered Resized Image" width="500" />
+</div>
+<br>
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_5395.jpg" alt="Centered Resized Image" width="500" />
+</div>
+<br>
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_5415.jpg" alt="Centered Resized Image" width="500" />
+</div>
+<br>
+<div style="text-align: center;">
+    <img src="/images/luxembourg/IMG_5455.jpg" alt="Centered Resized Image" width="500" />
 </div>
 
 ## Perspectives
