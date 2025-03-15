@@ -15,7 +15,9 @@ The most convenient way to go to Luxembourg is by SNCF Train, I guess, it took u
 
 We arrived at about 9.30 am, went down the streets, visited Adolphe bridge, Ville Haute and [Nationalmusée um Fëschmaart](https://www.google.com/maps/place/Nationalmus%C3%A9e+um+F%C3%ABschmaart/@49.6116589,6.1321055,17.53z/data=!4m6!3m5!1s0x4795494f798428ad:0xe3b9606b16e95d1f!8m2!3d49.6116419!4d6.1338587!16s%2Fm%2F027fkzk?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D), took some photos then had lunch together.
 
-During the trip, my friends complained about my photography skill and taught me how to do it much better.
+My new labmate as well as flatmate, said that "This is the real Europe I want to see". Perhaps the excitement was amplified after being swamped with work for the past two weeks since coming to Nancy.
+
+During the trip, my friends grumbled about my photography skill and taught me how to do it much better :)
 
 <div style="text-align: center;">
     <img src="/images/luxembourg/IMG_3981.jpg" alt="Centered Resized Image" width="500" />
