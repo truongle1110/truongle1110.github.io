@@ -17,7 +17,7 @@ We arrived at about 9.30 am, went down the streets, visited Adolphe bridge, Vill
 
 My new labmate as well as flatmate, said that "This is the real Europe I want to see". Perhaps the excitement was amplified after being swamped with work for the past two weeks since coming to Nancy.
 
-During the trip, my friends grumbled about my photography skill and taught me how to do it much better :)
+During the trip, my friends grumbled about my photography skill and taught me how to do it much better :>
 
 <div style="text-align: center;">
     <img src="/images/luxembourg/IMG_3981.jpg" alt="Centered Resized Image" width="500" />
