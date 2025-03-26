@@ -8,4 +8,5 @@ tags:
   - research
   - life
 ---
-This 
+In mid-March, my Doctoral school, IAEM (Automatic control, Signal and Image Processing, Computer Engineering), organized a "Review" day for doctoral students starting their second year. The aims are to create an opportunity for PhD Candidates, who have started their thesis for more than one year, to present their work so far, and also connect people in relevant fields.
+
