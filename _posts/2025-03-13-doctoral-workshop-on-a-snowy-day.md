@@ -55,3 +55,6 @@ After a quick lunch at Crous Resto, under freezing weather, Martin taught me how
 
 ## Next steps
 As I mentioned in the poster
+<div style="text-align: center;">
+  <img src="/images/doctoral-workshop-on-a-snowy-day/IMG_4458.jpg" alt="Descriptive Alt Text" width="500">
+</div>
