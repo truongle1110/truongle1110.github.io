@@ -27,7 +27,7 @@ In addition, in this workshop, I also heard about a topic about Federated Learni
 And by chance, I met a Vietnamese guy in this event. He was also working in Control sector and focused on autonomous vehicles.
 
 <div style="text-align: center;">
-  <img src="/images/doctoral-workshop-on-a-snowy-day/IMG_4469.jpg" alt="Descriptive Alt Text" width="400">
+  <img src="/images/doctoral-workshop-on-a-snowy-day/IMG_4469.jpg" alt="Descriptive Alt Text" width="500">
   <figcaption>My poster</figcaption>
 </div>
 
