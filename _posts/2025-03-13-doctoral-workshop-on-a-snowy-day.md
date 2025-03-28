@@ -50,6 +50,7 @@ After a quick lunch at Crous Resto, under freezing weather, Martin taught me how
 ## Remarks
 * The workshop occurred as scheduled with a total of 16 representations, the topic was covered the most might be Control.
 * Most of the talks were presented in French, and I found it quite difficult to keep track of them. I felt like it was mandatory for me to have a plan for studying French as soon as possible.
-* The Crous here was different from those in other campuses that I tried before, still the same price but the main disks were mostly cold food, and it seemed there was just one person who handled the payment
+* The Crous here was different from those in other campuses that I tried before, still the same price but the main disks were mostly cold food, and it seemed there was just one person who handled the payment.
+* I did not know what happened to my snowman afterward, but according to Martin, people would normally give it a high kick.
 
 ## Next steps
