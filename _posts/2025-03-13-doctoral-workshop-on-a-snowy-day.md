@@ -34,6 +34,17 @@ And by chance, I met a Vietnamese guy in this event. He was also working in Cont
 ## The snowfamily
 The workshop unexpectedly took place on a day of heavy snowfall. According to Martin, one of my labmates who also joined the event, this rarely occurs in March. It was also my first time to see such an amount of snow with my own eyes. 
 
-After a quick lunch in Crous Resto, 
-
+After a quick lunch at Crous Resto, under freezing weather, Martin taught me how to build a snowman even though I was only wearing light clothes. Unlike what I saw in movies, building a snowman was probably much harder than I expected. On the way back to the next section of the workshop, we came across a snowwoman built by some students in the campus. We also received a message about the snowboy which was made by my labmates in CRAN.
+<div style="text-align: center;">
+  <img src="/images/doctoral-workshop-on-a-snowy-day/IMG_4461.jpg" alt="Descriptive Alt Text" width="500">
+  <figcaption>My poster</figcaption>
+</div>
+<div style="text-align: center;">
+  <img src="/images/doctoral-workshop-on-a-snowy-day/IMG_4467.jpg" alt="Descriptive Alt Text" width="500">
+  <figcaption>My poster</figcaption>
+</div>
+<div style="text-align: center;">
+  <img src="/images/doctoral-workshop-on-a-snowy-day/snowboy.JPG" alt="Descriptive Alt Text" width="500">
+  <figcaption>My poster</figcaption>
+</div>
 ## Next steps
