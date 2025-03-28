@@ -19,5 +19,6 @@ However, it turned out not to be completely meaningless to come there. Safety RL
 > - Industrial machines operate in environments where unsafe maintenance actions can cause damage.
 > - In autonomous driving, a poor decision in ECU could cause a crash.
 > - A robotic manipulator that learns to pick fragile items may apply too much force and break them.
+
 Industries like aviation, automotive, and healthcare have strict safety standards, therefore, Any AI-based decision making system used in these sectors must guarantee safe behavior. I tried to relate this to RL-based predictive maintenance, which is my current topic. And it really gave me some ideas.
 
