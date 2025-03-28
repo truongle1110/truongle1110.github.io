@@ -31,7 +31,7 @@ And by chance, I met a Vietnamese guy in this event. He was also working in Cont
 </div>
 
 <figure style="text-align: center;">
-  <img src="/images/luxembourg/IMG_4469.jpg" alt="Descriptive Alt Text" width="500">
+  <img src="/images/doctoral-workshop-on-a-snowy-day/IMG_4469.jpg" alt="Descriptive Alt Text" width="500">
   <figcaption><em>Figure 1: This is a caption centered below the image.</em></figcaption>
 </figure>
 
