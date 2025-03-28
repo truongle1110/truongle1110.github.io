@@ -54,3 +54,4 @@ After a quick lunch at Crous Resto, under freezing weather, Martin taught me how
 * I did not know what happened to my snowman afterward, but according to Martin, people would normally give it a high kick.
 
 ## Next steps
+As I mentioned in the poster
