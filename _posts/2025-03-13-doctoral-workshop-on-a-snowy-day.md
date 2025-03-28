@@ -28,7 +28,7 @@ And by chance, I met a Vietnamese guy in this event. He was also working in Cont
 
 <div style="text-align: center;">
   <img src="/images/doctoral-workshop-on-a-snowy-day/IMG_4469.jpg" alt="Descriptive Alt Text" width="400">
-  <figcaption><em>My poster.</em></figcaption>
+  <figcaption>My poster</figcaption>
 </div>
 
 ## The snowfamily
