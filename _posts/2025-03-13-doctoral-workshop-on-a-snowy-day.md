@@ -27,3 +27,6 @@ In addition, in this workshop, I also heard about a topic about Federated Learni
 And by chance, I met a Vietnamese guy in this event. He was also working in Control sector and focused on autonomous vehicles.
 
 ## The snowfamily
+The workshop unexpectedly took place on a day of heavy snowfall. According to Martin, one of my labmates who also joined the event, this rarely occurs in March. It was also my first time to see such an amount of snow with my own eyes. 
+
+## Next steps
