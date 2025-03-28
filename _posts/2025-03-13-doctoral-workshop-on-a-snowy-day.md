@@ -20,6 +20,10 @@ However, it turned out not to be completely meaningless to come there. Safety RL
 > - In autonomous driving, a poor decision in ECU could cause a crash.
 > - A robotic manipulator that learns to pick fragile items may apply too much force and break them.
 
-Industries like aviation, automotive, and healthcare have strict safety standards, therefore, Any AI-based decision making system used in these sectors must guarantee safe behavior. I tried to relate this to RL-based predictive maintenance, which is my current topic, and it really gave me some ideas.
+Industries like aviation, automotive, or manufacturing in general have strict safety standards, therefore, any AI-based decision making system used in these sectors must guarantee safety regulation. I tried to relate this to RL-based predictive maintenance, which is my current topic, and it really gave me some ideas.
 
-In addition, in this workshop, I also heard about a topic about Federated Learning using Game Theory to optimize the model in central server. I didn't really know much about the Federated Learning part, but I could see some similarities between Game Theory and RL. The difference may lie in their approach to decision-making: game theory analyzes strategic interactions among multiple rational agents in *known environments*, while RL focuses on how an agent learns optimal behavior through trial and error in often *unknown or dynamic* environments.
+In addition, in this workshop, I also heard about a topic about Federated Learning using Game Theory to optimize the model in central server. I didn't really know much about the Federated Learning part, but I could see some similarities between Game Theory and RL. The difference may lie in their approach to decision-making: game theory analyzes strategic interactions among multiple rational agents in *known environments*, while RL focuses on how an agent learns optimal policy through trial and error in often *unknown or dynamic* environments.
+
+And by chance, I met a Vietnamese guy in this event. He was also working in Control sector and focused on autonomous vehicles.
+
+## The snowfamily
