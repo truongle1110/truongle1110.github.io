@@ -16,8 +16,7 @@ Honestly, I felt quite uninterested before the event, mostly because the project
 Most of the research topics came from people of my lab, CRAN, and focused on Control Theory, which is one of the fields I really enjoyed during undergrad and planned to pursue this direction if it was not for the PhD position here. A lot of interesting topics appeared in the list, including: System identification for aircrafts, observer for autonomous vehicles and RL-based control. Shamefully, I’ve almost forgotten everything I once knew in this field. The only thing right then I could ask those students who were working in Control was about the project they were working on and how they could apply their thesis in real-world scenarios.
 
 However, it turned out not to be completely meaningless to come there. Safety RL-based control was the most interesting work to me, maybe partly because it was related to my topic, at least about the RL aspect. In addition, traditional RL learns by <em>trial and error</em>, that’s fine in games or simulations, but in the real world, trial and error could be dangerous, for examples:
-```
-- Industrial machines operate in environments where unsafe maintenance actions can cause damage.
-- In autonomous driving, a poor decision could cause a crash.
-- A robotic manipulator that learns to pick fragile items may apply too much force and break them.
-```
+> - Industrial machines operate in environments where unsafe maintenance actions can cause damage.
+> - In autonomous driving, a poor decision could cause a crash.
+> - A robotic manipulator that learns to pick fragile items may apply too much force and break them.
+
