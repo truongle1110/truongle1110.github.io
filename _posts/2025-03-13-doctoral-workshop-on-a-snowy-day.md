@@ -32,7 +32,7 @@ And by chance, I met a Vietnamese guy in this event. He was also working in Cont
 </div>
 
 ## The snowfamily
-The workshop unexpectedly took place on a day of heavy snowfall. According to Martin, one of my labmates who also joined the event, this rarely occurs in March. It was also my first time to see such an amount of snow with my own eyes.
+The workshop unexpectedly took place on a day of heavy snowfall. According to Martin, one of my labmates as well as an old flatmate who also joined the event, this rarely occurs in March. It was also my first time to see such an amount of snow with my own eyes.
 <div style="text-align: center;">
   <img src="/images/doctoral-workshop-on-a-snowy-day/IMG_4465.jpg" alt="Descriptive Alt Text" width="500">
 </div>
