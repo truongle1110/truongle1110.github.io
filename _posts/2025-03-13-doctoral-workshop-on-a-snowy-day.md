@@ -20,7 +20,7 @@ However, it turned out not to be completely meaningless to come there. Safety RL
 > - In autonomous driving, a poor decision in ECU could cause a crash.
 > - A robotic manipulator that learns to pick fragile items may apply too much force and break them.
 
-Industries like aviation, automotive, or manufacturing in general have strict safety standards, therefore, any AI-based decision making system used in these sectors must guarantee safety regulation. I tried to relate this to RL-based predictive maintenance, which is my current topic, and it really gave me some ideas.
+Industries like aviation, automotive, or manufacturing in general have strict safety standards, therefore, any AI-based (in general) decision making system used in these sectors must guarantee safety regulation. I tried to relate this to RL-based predictive maintenance, which is my current topic, and it really gave me some ideas.
 
 In addition, in this workshop, I also heard about a topic about Federated Learning using Game Theory to optimize the model in central server. I didn't really know much about the Federated Learning part, but I could see some similarities between Game Theory and RL. The difference may lie in their approach to decision-making: game theory analyzes strategic interactions among multiple rational agents in *known environments*, while RL focuses on how an agent learns optimal policy through trial and error in often *unknown or dynamic* environments.
 
@@ -56,7 +56,7 @@ After a quick lunch at Crous Resto, under freezing weather, Martin taught me how
 * I did not know what happened to my snowman afterward, but according to Martin, people would normally give it a high kick.
 
 ## Next steps
-As I mentioned in the poster
+As I mentioned, AI-based maintenance decision making approach must guarantee safety, actually not only safety but also take into account the states of the system when it changes over time in general in order to minize downtime for RMS (Reconfigurable Manufacturing Systems). In the context of RL, this could include reasoning capabilities with an aim to embedding knowledge about system constraints. This enables the algorithms to cope with such changes, which can be effective in decision support systems where complex maintenance decision making is required (enhace adaptability). This will be the next phase in my thesis.
 <div style="text-align: center;">
   <img src="/images/doctoral-workshop-on-a-snowy-day/IMG_4458.jpg" alt="Descriptive Alt Text" width="500">
   <figcaption>I need a haircut</figcaption>
