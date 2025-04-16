@@ -12,7 +12,7 @@ Sự không hoàn hảo là điều vốn dĩ gắn liền với con người. T
 Three Billboards Outside Ebbing, Missouri (hay "Truy tìm công lý" theo cách gọi của rạp Việt) phản ánh rõ điều này. Chẳng phải là một câu chuyện có tuyến nhân vật chính diện, phản diện rõ ràng, đây là một hành trình của những con người đầy mâu thuẫn, tổn thương và sai lầm.
 
 ## Mildred Hayes - Người mẹ phẫn nộ
-Mildred là trung tâm của câu chuyện, một người mẹ mất con vì bị hiếp và giết mà không tìm được công lý. Sự phẫn nộ và đau khổ của bà được thể hiện qua việc thuê ba bảng quảng cáo để chỉ trích cảnh sát. Nhưng dù động cơ là chính đáng, hành động của bà không phải lúc nào cũng đúng.
+Mildred là trung tâm của câu chuyện, một người mẹ mất con vì bị hiếp và giết mà không tìm được công lý. Sự phẫn nộ và đau khổ của bà được thể hiện qua việc thuê ba biển quảng cáo để chỉ trích cảnh sát. Nhưng dù động cơ là chính đáng, hành động của bà không phải lúc nào cũng đúng.
 
 Mildred thô bạo, đôi khi tàn nhẫn, và có lúc mất kiểm soát, như khi khoét ngón tay tên nha sĩ hay phóng hỏa đồn cảnh sát. Bà không cố gắng trở thành người tốt, mà đơn giản là phản ứng theo cảm xúc thật. Đau đớn, giận dữ, bất lực, chính điều đó khiến bà trở nên chân thực và phức tạp.
 
