@@ -21,7 +21,7 @@ Cảnh sát trưởng Willoughby là người duy nhất mà Mildred vẫn có c
 
 Willoughby có lẽ là nhân vật có tình người nhất trong cả phim, thông qua nội dung những tâm thư mà ông để lại cho người vợ, Dixon và Mildred. Một trong số đó đề cập đến việc ông đã chủ động trả tiền thuê những biển quảng cáo cho Mildred để bà tiếp tục nhạo báng mình sau khi mất. Cái chết của ông không phải đến từ ai, mà là do bệnh ung thư, điều đó tạo ra bước ngoặt cho các nhân vật khác, đặc biệt là Dixon.
 
-## Dixon - Từ tệ hại đến đồng cảm
+## Dixon - Từ đáng ghét đến đồng cảm
 Dixon là hình ảnh đại diện cho sự phân biệt chủng tộc, bạo lực và sự lạm quyền của cảnh sát. Ban đầu, anh ta là nhân vật mà khán giả ghét nhất, thiếu năng lực, nóng tính, và có vẻ độc ác. Nhưng bộ phim không để Dixon dừng lại ở hình tượng phản diện đơn giản. Sau cái chết của cảnh sát trưởng Willoughby, người sếp - người anh của mình, Dixon trải qua sự biến đổi sâu sắc. Anh dần nhận ra hậu quả từ hành động của mình, bắt đầu thay đổi, và cuối cùng là người chủ động điều tra vụ án để giúp Mildred. 
 
 Cảnh Dixon đọc lá thư của Willoughby để lại cho mình trong lúc Mildred phóng hoả đồn cảnh sát có lẽ là cảnh phim ấn tượng nhất, người xem biết rõ tính cách của Dixon, nhưng trong lòng chẳng thể ghét nổi nhân vật này.
