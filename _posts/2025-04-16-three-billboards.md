@@ -35,5 +35,7 @@ Mildred và Dixon, hai con người tổn thương, kết thúc hành trình kh�
 
 Bộ phim được làm ra bởi Martin Mcdonagh, người đạo diễn nổi tiếng với thể loại Black Comedy với lối kể chuyện vừa bi vừa hài. Chợt nhận ra mình thích thể loại phim này, chẳng cần kịch bản màu mè, fantasy, chỉ là những câu chuyện thực tế đời thường vẫn có thể theo dõi hành trình phát triển tâm lý của các nhân vật và đồng cảm với họ.
 
-Ngoài ra, bộ phim có soundtrack tuyệt vời, đúng chất nhạc đồng quê nhẹ nhàng, đơn cử như ["Buckskin Stallion Blues."](https://www.youtube.com/watch?v=ymFhK8oM6eo&list=WL&index=15)
+Ngoài ra, bộ phim có soundtrack tuyệt vời, đúng chất nhạc đồng quê nhẹ nhàng, đơn cử như ["Buckskin Stallion Blues"](https://www.youtube.com/watch?v=ymFhK8oM6eo&list=WL&index=15).
+
+Cảm ơn [Phê Phim](https://www.youtube.com/watch?v=iEJK6MqybNc).
 
