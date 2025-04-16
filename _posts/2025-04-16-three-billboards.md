@@ -33,3 +33,7 @@ Because through love comes calm, and through calm comes thought. And you need th
 ## Cái kết
 Mildred và Dixon, hai con người tổn thương, kết thúc hành trình không phải bằng việc tìm ra kẻ giết người, mà bằng một chuyến đi mơ hồ để "có thể giết hắn, hoặc không". Bộ phim không ban phát sự chuộc lỗi dễ dàng, cũng không trừng phạt theo kiểu đạo đức đơn giản. Chính sự không hoàn hảo của các nhân vật, với sự giằng xé, hối lỗi, khiến bộ phim trở thành một tác phẩm sâu sắc về con người, công lý và sự tha thứ.
 
+Bộ phim được làm ra bởi Martin Mcdonagh, người đạo diễn nổi tiếng với thể loại Black Comedy với lối kể chuyện vừa bi vừa hài. Chợt nhận ra mình thích thể loại phim này, chẳng cần kịch bản màu mè, fantasy, chỉ là những câu chuyện thực tế đời thường vẫn có thể theo dõi hành trình phát triển tâm lý của các nhân vật và đồng cảm với họ.
+
+Ngoài ra, bộ phim có soundtrack tuyệt vời, đúng chất nhạc đồng quê nhẹ nhàng, đơn cử như ["Buckskin Stallion Blues."](https://www.youtube.com/watch?v=ymFhK8oM6eo&list=WL&index=15)
+
