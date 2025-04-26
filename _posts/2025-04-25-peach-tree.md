@@ -77,15 +77,19 @@ You must believe.
 <div style="text-align: center;">
   <img src="/images/peach-tree/IMG_6252.jpg" alt="Descriptive Alt Text" width="500">
 </div>
+<br>
 <div style="text-align: center;">
   <img src="/images/peach-tree/IMG_5936.jpg" alt="Descriptive Alt Text" width="500">
 </div>
+<br>
 <div style="text-align: center;">
   <img src="/images/peach-tree/IMG_5943.jpg" alt="Descriptive Alt Text" width="500">
 </div>
+<br>
 <div style="text-align: center;">
   <img src="/images/peach-tree/IMG_4768.jpg" alt="Descriptive Alt Text" width="500">
 </div>
+<br>
 <div style="text-align: center;">
   <img src="/images/peach-tree/IMG_6208.jpg" alt="Descriptive Alt Text" width="500">
 </div>
