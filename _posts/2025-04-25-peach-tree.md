@@ -7,7 +7,7 @@ related: false
 tags:
   - nonsense
 ---
-Mới đó đã được 2 mùa xuân rồi.
+Mới đó đã được 2 mùa xuân.
 
 Hoa đào ở Nancy đẹp thật. 
 
