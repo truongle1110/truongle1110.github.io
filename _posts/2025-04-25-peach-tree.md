@@ -74,7 +74,6 @@ What... What are you...? Master, you can't leave me!
 Oogway:
 You must believe.
 
-<br>
 <div style="text-align: center;">
   <img src="/images/peach-tree/IMG_6252.jpg" alt="Descriptive Alt Text" width="500">
 </div>
@@ -90,5 +89,5 @@ You must believe.
 <div style="text-align: center;">
   <img src="/images/peach-tree/IMG_6208.jpg" alt="Descriptive Alt Text" width="500">
 </div>
-<br>
+---
 Chỉ cần tin tưởng thôi!!!
