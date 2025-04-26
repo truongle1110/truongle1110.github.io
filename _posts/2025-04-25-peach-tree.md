@@ -7,7 +7,9 @@ related: false
 tags:
   - nonsense
 ---
+Mới đó đã được 2 mùa xuân rồi.
 
+Hoa đào ở Nancy đẹp thật. 
 
 Mùa hoa đào đến, cũng là mùa deadline.
 
