@@ -37,5 +37,5 @@ Bộ phim được làm ra bởi Martin Mcdonagh, người đạo diễn nổi t
 
 Ngoài ra, bộ phim có soundtrack tuyệt vời, đúng chất nhạc đồng quê nhẹ nhàng, đơn cử như ["Buckskin Stallion Blues"](https://www.youtube.com/watch?v=ymFhK8oM6eo&list=WL&index=15).
 
-Cảm ơn [Phê Phim](https://www.youtube.com/watch?v=iEJK6MqybNc). :>
+Cảm ơn [Phê Phim](https://www.youtube.com/watch?v=iEJK6MqybNc).
 
