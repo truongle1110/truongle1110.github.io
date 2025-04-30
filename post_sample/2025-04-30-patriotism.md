@@ -1,6 +1,6 @@
 ---
 title: 'Patriotism'
-date: 2025-04-24
+date: 2025-04-30
 permalink: /posts/2025/04/patriotism/
 author_profile: false
 related: false
