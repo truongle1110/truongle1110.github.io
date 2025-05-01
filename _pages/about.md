@@ -54,4 +54,8 @@ Aspiring to become a Data Scientist (preferably in Prognostics and Health Manage
 
 Recent news
 ======
+* July 2025: I will present my work at MIMAR (IMA International Conference on Modelling in Industrial Maintenance and Reliability)
+
+* May 2025: I will present my work at SAGIP (Société d'Automatique, de Génie Industriel et de Productique)
+
 * March 2024: My collaborative paper with Chiara Franciosi, Phuc Do and Alexandre Voisin, <em>“Contribution of Maintenance to Reconfigurable Manufacturing Systems: State of the Art and Challenges”</em>, has been accepted in 6th IFAC Workshop on Advanced Maintenance Engineering, Services and Technology (AMEST). [[paper](https://www.sciencedirect.com/science/article/pii/S2405896324007778)]
