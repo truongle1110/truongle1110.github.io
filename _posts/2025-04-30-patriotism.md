@@ -33,3 +33,4 @@ For me, I do not consider myself as a patriot. Mainly because military service i
 
 On some other aspects, I want to contribute to the development of Vietnam, at least with my expertise. But I don’t think I have to force myself to return just for that. I’ll stay where I feel truly happy (for now it is 🇻🇳). Anyway, actions always speak louder than words, right? Also, when talking with my labmates, I’ve noticed that most of what they know about Vietnam is related to war. I’m not saying that’s a bad thing, but I do believe it’s important to help people see that Vietnam has more things to explore than the history of conflict.
 
+One day, wait for me, Vietnam.
