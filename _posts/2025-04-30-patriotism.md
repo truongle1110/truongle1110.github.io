@@ -5,7 +5,7 @@ permalink: /posts/2025/04/patriotism/
 author_profile: false
 related: false
 tags:
-  - nonsense
+  - confession
 ---
 Today marks 50 years since the reunification of North and South Vietnam. After enduring a series of wars against France, Japan, the United States, and China, Vietnam achieved full independence and national unity on April 30, 1975, ending more than a hundred years of foreign domination and division. This important day means a lot to the Vietnamese people and reminds us not only of history, but also of the many personal stories that are part of our country's journey to freedom, like the stories of my paternal grandparents.
 
