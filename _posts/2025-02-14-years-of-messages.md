@@ -10,6 +10,3 @@ tags:
 <div style="text-align: center;">
     <img src="/images/years-of-messages/IMG_3875.jpg" alt="Centered Resized Image" width="600" />
 </div>
-
-"Tóc em như ngọn lửa mùa đông,
-Tháng giêng than hồng, thiêu đốt trái tim anh." 
