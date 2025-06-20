@@ -1,6 +1,6 @@
 ---
 title: 'Policy of life'
-date: 2025-04-24
+date: 2025-06-20
 permalink: /posts/2025/04/policy-of-life/
 author_profile: false
 related: false
