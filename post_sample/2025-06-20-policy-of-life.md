@@ -28,3 +28,5 @@ Nếu coi hạnh phúc là reward, thì một agent khôn ngoan là người bi�
 
 ## Học cách thích nghi trong Non-stationary environment
 Trong thực tế, môi trường sống của chúng ta không bao giờ là stationary. Nó luôn thay đổi theo thời gian, từ sự thay đổi của xã hội, công nghệ, đến những biến động trong bản thân ta như sức khỏe, tâm lý hay các mối quan hệ. Đây chính là thách thức của Non-stationary environment trong RL, khi mà những policy cũ không còn phù hợp, buộc ta phải liên tục học lại, cập nhật bản thân để thích nghi.
+
+Indeed, 
