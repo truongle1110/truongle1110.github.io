@@ -58,8 +58,8 @@ Recent news
 
 * July 2025: Paper <em>"Evaluation of health state of oil-immersed transformer based on dissolved gas analysis: An empirical study"</em> has been accepted in MIMAR (IMA International Conference on Modelling in Industrial Maintenance and Reliability) 2025.
 
-* July 2025: I will present my work "A Framework for Maintenance Scheduling in Reconfigurable Manufacturing Systems" at MIMAR (IMA International Conference on Modelling in Industrial Maintenance and Reliability) 2025.
+* July 2025: I will present my work <em>"A Framework for Maintenance Scheduling in Reconfigurable Manufacturing Systems"</em> at MIMAR (IMA International Conference on Modelling in Industrial Maintenance and Reliability) 2025.
 
-* May 2025: I will present my work "A Framework for Maintenance Scheduling in Reconfigurable Manufacturing Systems" at SAGIP (Société d'Automatique, de Génie Industriel et de Productique) 2025.
+* May 2025: I will present my work <em>"A Framework for Maintenance Scheduling in Reconfigurable Manufacturing Systems"</em> at SAGIP (Société d'Automatique, de Génie Industriel et de Productique) 2025.
 
 * March 2024: My collaborative paper with Chiara Franciosi, Phuc Do and Alexandre Voisin, <em>"Contribution of Maintenance to Reconfigurable Manufacturing Systems: State of the Art and Challenges"</em>, has been accepted in 6th IFAC Workshop on Advanced Maintenance Engineering, Services and Technology (AMEST). [[paper](https://www.sciencedirect.com/science/article/pii/S2405896324007778)]
