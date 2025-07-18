@@ -29,4 +29,4 @@ Chuyện yêu đương vốn phức tạp, có lẽ còn phức tạp hơn cả 
 
 Chẳng biết 2-3 năm tới bản thân sẽ ở đâu, làm gì, hay có còn đủ động lực để tiếp tục viết mấy cái blog trẻ trâu kiểu này, hay là lại xoá nó đi. Biết đâu lại thành PhD năm 5, hay về quê trồng rau :v. Viết đến đây chỉ mong năm 3 xong hết deadline, lấy thêm được tờ a4 + build cái cv đủ dày là mãn nguyện. Sắp tới chia tay ông giáo, cảm giác như sắp hết hợp đồng với mentor ingame. Vừa háo hức vì được tự do hơn, vừa lo lo vì tự do quá lại thành bấp bênh. Thôi kệ, biết đâu lại được unlock skill mới.
 
-P/s: post này được inspired bởi mấy a ở Nancy, dù chưa stress vì PhD đến mức mang thuốc hút hay whiskey lên lab như các a nhưng giờ cũng đủ hiểu một phần lý do :v
+P/s: post này được inspired bởi mấy a ở Nancy, dù chưa stress vì PhD đến mức mang thuốc hút hay whiskey lên lab như các a nhưng giờ cũng đủ hiểu một phần lý do :)
