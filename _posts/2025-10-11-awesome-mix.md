@@ -1,13 +1,13 @@
 ---
 title: 'Awesome mix (to be updated)'
 date: 2025-10-11
-permalink: /posts/2025/10/awesome-mix/
+permalink: /posts/2025/10/awesome-rock/
 author_profile: false
 related: false
 tags:
   - music
 ---
-Awesome mix but little known.
+Awesome rock.
 1. [To Get Back To You - Nelson](https://www.youtube.com/watch?v=mFqC-VvzthA)
 2. [Apologize - The Last Vegas](https://www.youtube.com/watch?v=fQI7AYd9Kb8)
 3. [Mơ - Black of panic](https://www.youtube.com/watch?v=Ll0VZXYW3CI)
@@ -21,3 +21,6 @@ Awesome mix but little known.
 11. [Dạo gần đây - THOẠI 004](https://www.youtube.com/watch?v=MFAi9yu9UEw)
 12. [Một Hôm Trên Những Mái Nhà - THOẠI 004](https://www.youtube.com/watch?v=Dprw5xnyTnU)
 13. [Em lỡ đánh rơi tình chúng ta - THEMÈO](https://www.youtube.com/watch?v=EYNa1UuoqLM)
+14. [Words - F.R David](https://www.youtube.com/watch?v=PTsSk0r_Tq8)
+15. [Do Ya Wanna Taste It - Wig Wam](https://www.youtube.com/watch?v=9BSXqHtGgnc)
+16. [Oh Lord - Foxy Shazam](https://www.youtube.com/watch?v=Om_VWBua0_M)
