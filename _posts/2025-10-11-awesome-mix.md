@@ -12,3 +12,13 @@ Awesome mix but little known.
 2. [Apologize - The Last Vegas](https://www.youtube.com/watch?v=fQI7AYd9Kb8)
 3. [Mơ - Black of panic](https://www.youtube.com/watch?v=Ll0VZXYW3CI)
 4. [Miles apart - STUPIZ KIZ](https://www.youtube.com/watch?v=-W4UafVa1wE)
+5. [Bittersweet - STUPIZ KIZ](https://www.youtube.com/watch?v=_OpKBj_vxqw)
+6. [Vượt đèn đỏ - THEMÈO](https://www.youtube.com/watch?v=Q-_3Jpz8R6Y)
+7. [Chung cư - THEMÈO](https://www.youtube.com/watch?v=q7qaLlxhNd0)
+8. [Runaway - THOẠI 004](https://www.youtube.com/watch?v=-bYQQpq386M)
+9. [Chuyện của chúng ta - THEMÈO](https://www.youtube.com/watch?v=CP-J5xQ8ANs)
+10. [Dalat - THOẠI 004](https://www.youtube.com/watch?v=WKoC8YRmv4k)
+11. [Dạo gần đây - THOẠI 004](https://www.youtube.com/watch?v=MFAi9yu9UEw)
+12. [Một Hôm Trên Những Mái Nhà - THOẠI 004](https://www.youtube.com/watch?v=Dprw5xnyTnU)
+13. [Em lỡ đánh rơi tình chúng ta - THEMÈO](https://www.youtube.com/watch?v=EYNa1UuoqLM)
+14.
