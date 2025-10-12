@@ -24,3 +24,5 @@ Awesome rock.
 14. [Words - F.R David](https://www.youtube.com/watch?v=PTsSk0r_Tq8)
 15. [Do Ya Wanna Taste It - Wig Wam](https://www.youtube.com/watch?v=9BSXqHtGgnc)
 16. [Oh Lord - Foxy Shazam](https://www.youtube.com/watch?v=Om_VWBua0_M)
+17. [Crawling - Linkin Park](https://www.youtube.com/watch?v=Gd9OhYroLN0)
+18. [11th Street Kid - Hanoi Rocks](https://www.youtube.com/watch?v=B2AGpPDESUM)
