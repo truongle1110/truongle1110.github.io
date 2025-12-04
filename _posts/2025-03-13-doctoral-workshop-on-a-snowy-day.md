@@ -57,7 +57,3 @@ After a quick lunch at Crous Resto, under freezing weather, Martin taught me how
 
 ## Next steps
 As I mentioned, AI-based maintenance decision making approach must guarantee safety, actually not only safety but also take into account the states of the system when it changes over time in general in order to minize downtime for RMS (Reconfigurable Manufacturing Systems). In the context of RL, this could include reasoning capabilities with an aim to embedding knowledge about system constraints. This enables the algorithms to cope with such changes, which can be effective in decision support systems where complex maintenance decision making is required (enhance adaptability). One of the promising methods is to integrate RL and Ontology, or GNNs, or PINNs, and I am still working on these. This will be the next phase in my thesis.
-<div style="text-align: center;">
-  <img src="/images/doctoral-workshop-on-a-snowy-day/IMG_4458.jpg" alt="Descriptive Alt Text" width="500">
-  <figcaption>I need a haircut</figcaption>
-</div>
