@@ -26,3 +26,6 @@ Awesome rock.
 16. [Oh Lord - Foxy Shazam](https://www.youtube.com/watch?v=Om_VWBua0_M)
 17. [Crawling - Linkin Park](https://www.youtube.com/watch?v=Gd9OhYroLN0)
 18. [11th Street Kid - Hanoi Rocks](https://www.youtube.com/watch?v=B2AGpPDESUM)
+19. [Måneskin - THE LONELIEST](https://www.youtube.com/watch?v=odWKEfp2QMY)
+20. [Måneskin - TRASTEVERE](https://www.youtube.com/watch?v=IGAnd_WnpTk)
+21. [Radiohead - Let Down](https://www.youtube.com/watch?v=ZVgHPSyEIqk)
