@@ -9,6 +9,8 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %} -->
 ## 2026
+* **Huu-Truong Le**, Phuc Do, Alexandre Voisin. “Deep graph reinforcement learning–based maintenance scheduling for multi-component systems considering disassembly impact”. [internal revision]
+
 * **Huu-Truong Le**, Phuc Do, Alexandre Voisin, & Chiara Franciosi. “AI-based maintenance scheduling framework considering disassembly impact”. 23rd IFAC World Congress. [accepted]
 
 ## 2025
