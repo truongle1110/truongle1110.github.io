@@ -54,6 +54,8 @@ Aspiring to become a Data Scientist (preferably in Prognostics and Health Manage
 
 Recent news
 ======
+* April 2026: Paper <em>"AI-based maintenance scheduling framework considering disassembly impact"</em> has been accepted in 23rd IFAC World Congress.
+
 * July 2025: Paper <em>"Evaluation of health state of oil-immersed transformer based on dissolved gas analysis: An empirical study"</em> has been accepted in MIMAR (IMA International Conference on Modelling in Industrial Maintenance and Reliability) 2025.
 
 * July 2025: I will present my work <em>"A Framework for Maintenance Scheduling in Reconfigurable Manufacturing Systems"</em> at MIMAR (IMA International Conference on Modelling in Industrial Maintenance and Reliability) 2025.
