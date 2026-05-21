@@ -8,6 +8,8 @@ author_profile: true
 <!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %} -->
+## 2026
+* **Huu-Truong Le**, Phuc Do, Alexandre Voisin, & Chiara Franciosi. “AI-based maintenance scheduling framework considering disassembly impact”. 23rd IFAC World Congress. [accepted]
 
 ## 2025
 * **Huu-Truong Le**, Phuc Do, Alexandre Voisin, & Chiara Franciosi. “Maintenance Scheduling in Reconfigurable Manufacturing Systems: A Literature Review and a Dynamic Grouping–Based Framework”. [under revision]
