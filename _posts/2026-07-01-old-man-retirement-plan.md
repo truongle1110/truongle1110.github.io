@@ -7,5 +7,3 @@ related: false
 tags:
   - life
 ---
-
-fffs
