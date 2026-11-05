@@ -54,7 +54,7 @@ Aspiring to become a Data Scientist (preferably in Prognostics and Health Manage
 
 Recent news
 ======
-* October 2026: Article <em>"Maintenance Scheduling in Reconfigurable Manufacturing Systems: A Literature Review and a Dynamic Grouping–Based Framework"</em> has been accepted in Journal of Risk and Reliability.
+* October 2026: Article <em>"Maintenance Scheduling in Reconfigurable Manufacturing Systems: A Literature Review and a Dynamic Grouping–Based Framework"</em> has been accepted in Journal of Risk and Reliability. [[paper](https://journals.sagepub.com/doi/abs/10.1177/1748006X261500174)]
 
 * April 2026: Paper <em>"AI-based maintenance scheduling framework considering disassembly impact"</em> has been accepted in 23rd IFAC World Congress.
 
